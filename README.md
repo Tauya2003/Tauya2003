@@ -1,6 +1,10 @@
  Hie there👋
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tauya2003&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!---
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript and Django
