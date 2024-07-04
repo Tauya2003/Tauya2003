@@ -1,4 +1,4 @@
-**Frontend Web Developer | Javascript, React, Nodejs, HTML, CSS**
+**Full Stack Web Developer | Javascript, Python, React, Nodejs, Django**
 
 ![Banner Image](banner.png)
 
